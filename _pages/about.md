@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "小c（wsq）的个人主页"https://github.com/xtu-xiaoc/xiaoc.github.io/blob/master/_pages/about.md
+title: "xiaoc_wsq_person_web"https://github.com/xtu-xiaoc/xiaoc.github.io/blob/master/_pages/about.md
 author_profile: true
 redirect_from: 
   - /about/
