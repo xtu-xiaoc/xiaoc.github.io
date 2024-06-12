@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "xiaoc_wsq_person_web"
+title: "xiaoc_wsq_person_web"https://xtu-xiaoc/xiaoc.github.io
 author_profile: true
 redirect_from: 
   - /about/
